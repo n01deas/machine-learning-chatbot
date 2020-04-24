@@ -16,9 +16,9 @@ Rasa NLU for natural language understanding and Rasa Core as a dialog engine.
 ## How to use this example?
 
 1. Get rasa
- ```
-pip install rasa
-```
+   ```
+   pip install rasa
+   ```
 
 2. Go in your shell to the project
    ```
